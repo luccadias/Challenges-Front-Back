@@ -15,6 +15,8 @@ Todos os desafios foram criado por mim, porém se você tem alguma ideia pode fi
 | Desafio | link |
 | :---: | :---: |
 | Básico | [Acessar](https://github.com/luccadias/Challenges-Front-Back/tree/master/front-end/challenge-1) |
+| intermediário | Em Desenvolvimento |
+| Avançado |  Em Desenvolvimento |
 
 ##### 
 
