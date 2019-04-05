@@ -13,7 +13,7 @@ Todos os desafios foram criado por mim, porém se você tem alguma ideia pode fi
   - Siga o Design e API que está dentro de cada desafio.
   
 | Desafio | link |
-| :---: | :---: | :---: |
+| :---: | :---: |
 | Básico | [Acessar](https://github.com/luccadias/Challenges-Front-Back/tree/master/front-end/challenge-1) |
 
 ##### 
