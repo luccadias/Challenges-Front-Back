@@ -1,4 +1,8 @@
-
+ 
+ ##### - Listar todos os post`s ( Criar card com a foto do usuario, nome, titiulo e texto ).
+ ##### - Funcionalidade de buscar por nome do usuario
+ ##### - Siga o Design para desenvolvimento do style
+ 
  ### API [GoRest](https://gorest.co.in/)
   - Para essa etapa utilize Apenas essas rotas:
 ``/public-api/users``
