@@ -1,5 +1,5 @@
  
- 
+### Objetivos: 
  ##### - Criar uma página que lista todos os post`s da API [GoRest](https://gorest.co.in/) 
  ##### - Criar um Search Bar para buscar os post`s por nome do usuario
  ##### - Siga o Design para desenvolvimento do style
