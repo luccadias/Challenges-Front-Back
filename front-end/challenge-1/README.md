@@ -1,9 +1,13 @@
  
 ### Objetivos: 
- ##### - Criar uma página que lista todos os post`s da API [GoRest](https://gorest.co.in/) 
- ##### - Criar um Search Bar para buscar os post`s por nome do usuario
- ##### - Siga o Design para desenvolvimento do style
+ * Criar uma página que lista todos os post`s da API [GoRest](https://gorest.co.in/) 
+ * Criar um Search Bar para buscar os post`s por nome do usuario
+ * Siga o Design para desenvolvimento do style
  
+### Dicas: 
+ * Utilize [FontAwesome](fontawesome.com) para personalizar os Icones.
+ * Use [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) para facilitar a leitura do style 
+
  ### API [GoRest](https://gorest.co.in/)
   - Para essa etapa utilize Apenas essas rotas:
 ``/public-api/users``
