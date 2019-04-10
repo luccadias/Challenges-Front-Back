@@ -14,4 +14,18 @@
   Obs: Token de autorização precisa colocar no header.
 
 ### Design da aplicação:
+```css
+  font-family: AppleGothic,
+
+  # Title NavBar
+  color: #646464,
+  placeholder: rgba(100, 100, 100, 0.6)
+
+  # Title Post
+  color: #646464,
+
+  # Text Post
+  color: #646464,
+  opaticy: 0.8
+```
 ![alt text](SocialPosts.png)
